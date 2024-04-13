@@ -26,7 +26,8 @@
 
 ###
 
-![1fZB](https://github.com/IfrimAlexandru/IfrimAlexandru/assets/157424180/769353e5-b881-4c04-89f0-c009fa2b86a9)
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://github.com/IfrimAlexandru/IfrimAlexandru/assets/157424180/769353e5-b881-4c04-89f0-c009fa2b86a9)" height="50" alt="gif"  />
+
 
 
 ###
