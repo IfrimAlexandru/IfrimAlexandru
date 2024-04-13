@@ -26,7 +26,7 @@
 
 ###
 
-<iframe src="https://gifer.com/embed/913V" width=480 height=243.840 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>  />
+<iframe src="https://gifer.com/embed/913V" width=480 height=243.840 frameBorder="0" allowFullScreen></iframe>
 
 ###
 
