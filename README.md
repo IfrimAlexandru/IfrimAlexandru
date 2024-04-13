@@ -26,7 +26,8 @@
 
 ###
 
-<iframe src="https://gifer.com/embed/913V" width=480 height=243.840 frameBorder="0" allowFullScreen></iframe>
+![1fZB](https://github.com/IfrimAlexandru/IfrimAlexandru/assets/157424180/769353e5-b881-4c04-89f0-c009fa2b86a9)
+
 
 ###
 
