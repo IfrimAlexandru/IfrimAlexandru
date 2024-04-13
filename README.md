@@ -26,7 +26,9 @@
 
 ###
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://github.com/IfrimAlexandru/IfrimAlexandru/assets/157424180/769353e5-b881-4c04-89f0-c009fa2b86a9)" height="50" alt="gif"  />
+<div align="left">
+  <img src="https://github.com/IfrimAlexandru/IfrimAlexandru/assets/157424180/993cc62c-0f5a-42ec-8cd6-3cd12c68c586" alt="Immagine" />
+</div>
 
 
 
