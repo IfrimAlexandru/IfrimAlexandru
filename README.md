@@ -28,7 +28,7 @@
 
 
   <div>
-    <img src="https://github.com/IfrimAlexandru/IfrimAlexandru/assets/157424180/993cc62c-0f5a-42ec-8cd6-3cd12c68c586" alt="Immagine" width="100px" />
+    <img src="https://github.com/IfrimAlexandru/IfrimAlexandru/assets/157424180/993cc62c-0f5a-42ec-8cd6-3cd12c68c586" alt="Immagine" width="150px" />
   </div>
   
 ###
